@@ -1,0 +1,36 @@
+/** {
+	background-color: red;
+}*/
+
+body {
+	background-color: lightgrey;
+	color: #fff;
+}
+
+#wrapper {
+	margin: 25px;
+	padding: 25px;
+	font-size: 18px;
+	margin-top: 50px;
+}
+
+#navbar {
+	position: fixed;
+	background-color: #708090;
+	border: solid 3px #2F4F4F;
+	width: 100%;
+	opacity: .7;
+}
+
+#navbar ul li {
+	display: inline;
+}
+
+#navbar a {
+	text-decoration: none;
+	color: darkgrey;
+}
+
+#navbar a:hover {
+	background-color: #F5F5F5;
+}
