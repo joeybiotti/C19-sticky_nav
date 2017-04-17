@@ -16,14 +16,18 @@ body {
 
 #navbar {
 	position: fixed;
+	display: block;
+  	position: block;
 	background-color: #708090;
 	border: solid 3px #2F4F4F;
-	width: 100%;
-	opacity: .7;
+	width: 75%;
+	opacity: .9;
 }
 
 #navbar ul li {
 	display: inline;
+	font-family: Arial, sans-serif;
+	font-size: 18px;
 }
 
 #navbar a {
